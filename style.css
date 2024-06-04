@@ -73,16 +73,6 @@
     background-position: center ;;
     background-repeat: no-repeat;
 }
-.Home img{
-    height: 50vh;
-    width:fit-content;;
-    position: relative;
-    padding-left: 100px;
-    background-position: 10%;
-    border-radius: 10px;
-    border-style: inherit;
-    opacity: 6;
-    }
 
 .content {
     max-width: 400px;
